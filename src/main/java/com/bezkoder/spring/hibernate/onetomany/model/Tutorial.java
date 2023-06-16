@@ -3,7 +3,7 @@ package com.bezkoder.spring.hibernate.onetomany.model;
 import java.util.HashSet;
 import java.util.Set;
 
-import javax.persistence.*;
+import jakarta.persistence.*;
 
 @Entity
 @Table(name = "tutorials")
